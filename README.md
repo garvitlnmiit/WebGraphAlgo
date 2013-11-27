@@ -6,8 +6,10 @@ Algorithm to find the **In-degree**, **Out-degree**, **Tendrils**, **Links** and
 Usage
 =====
 
-To build executable from the source do **make**. The file **outputScc** will be created. Do **./outputScc** to see the 
-output.
+To build executable from the source
+- **make**
+- **outputScc** will be created 
+- **./outputScc** to see the output
 
 Copyright
 =========
