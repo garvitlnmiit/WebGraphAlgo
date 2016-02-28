@@ -14,4 +14,4 @@ To build executable from the source
 Copyright
 =========
 
-The Algorithm was developed by **GarvitSharma** and **SiddhantGoenka** **(UG@LNMIIT)** under the supervision of **Dr. Subrat K. Dash** **(AssociateProfessor@LNMIIT)** for the fullfilment of CourseProjectAssignment.
+The Algorithm was developed by **GarvitSharma** **(UG@LNMIIT)** under the supervision of **Dr. Subrat K. Dash** **(AssociateProfessor@LNMIIT)** for the fullfilment of CourseProjectAssignment.
